@@ -18,7 +18,7 @@
 匂いセンサーやpHセンサーとかで、香りや味も識別できるようにしたいです。
 
 ### ワインのカラーチャート
-![Test Image 1](3DTest.png)
+![wine_color_chrat](Color-of-Wine-Poster-WineFolly.jpg)
 
 
 ## 直近の課題
